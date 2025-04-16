@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khuzaimashoaib
-- 👀 I’m interested in HTML, CSS, Javascript, python, git, smartgit, blockchain, Adobe Photoshop, Adobe Illustrator.
-- 🌱 I’m currently learning Blockchain course which contain(Bitcoin, Ethereum, Typescript, Javascript).
+- 👀 I’m interested in HTML, CSS, Javascript, git, smartgit, Adobe Photoshop, Adobe Illustrator, Flutter, React.
+- 🌱 I’m currently learning Modern Web and App Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email(khuzaima.shoaib@gmail.com).
 
